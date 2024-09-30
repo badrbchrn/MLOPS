@@ -4,6 +4,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+# DVC plots
+dvc_plots
+
+#MAC
 .DS_Store
 
 ## DVC
