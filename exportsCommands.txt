@@ -1,0 +1,4 @@
+export GCP_PROJECT_ID=mlops-boucherine
+export GCP_BILLING_ACCOUNT_ID=013A6E-A66F76-E8F29C
+export GCP_BUCKET_NAME=bucket-boucherine
+export GCP_BUCKET_LOCATION=europe-west6
